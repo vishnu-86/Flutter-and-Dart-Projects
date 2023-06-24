@@ -1,0 +1,1 @@
+In this project, I made an Expence Tracker app using flutter and dart in which user can add, delete and modify their expences and it self calculate the total expence and also helps to visualize money spend on different categories in a graphical representation. 
