@@ -1,0 +1,1 @@
+This is a simple App done using Flutter and Dart in which the user can start a quiz which contain some simple questions and user can selet right answers from the options provided. In the end score will be shown which denotes the number of correct answers and the questions that went wrong.
